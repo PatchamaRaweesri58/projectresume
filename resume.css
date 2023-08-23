@@ -34,6 +34,10 @@
 	font-weight: 200;
 }
 
+.bi {
+	display: inline;
+}
+
 .last.block {
 	margin-bottom: 110px;
 }
@@ -346,6 +350,10 @@ li:before {
 
 .contact_details_content p.purple {
 	margin-top: 25px;
+}
+
+.btn {
+	display: inline;
 }
 
 .send_message_button,
